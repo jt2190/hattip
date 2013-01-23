@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Hat Tip",
+    "description": "Friends in real life"
+  },
+  "appDescription": {
+    "message": "Hat Tip",
+    "description": "socketInfo.socketId"
+  }
+}

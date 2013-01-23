@@ -10,7 +10,7 @@ meet each other and strengthen their personal networks.
 3. Create an Event
 4. See a list of attendees and start to meet them!
 
-## Stories/todo
+## Stories
 
 A user should be able to install the application
 A user should be able to store their first name in their profile
@@ -27,3 +27,7 @@ A user should be able to mark an attendee as "met"
 
 ## Questions
 
+## TODO
+
+
+http put using curl... put the user profile info to the event, including the IP address
